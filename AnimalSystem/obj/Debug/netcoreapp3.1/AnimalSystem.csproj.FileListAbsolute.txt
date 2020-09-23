@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\obj\Debug\netcoreapp3.1\AnimalSystem.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\obj\Debug\netcoreapp3.1\AnimalSystem.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\obj\Debug\netcoreapp3.1\AnimalSystem.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\obj\Debug\netcoreapp3.1\AnimalSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\bin\Debug\netcoreapp3.1\AnimalSystem.exe
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\bin\Debug\netcoreapp3.1\AnimalSystem.deps.json
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\bin\Debug\netcoreapp3.1\AnimalSystem.runtimeconfig.json
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\bin\Debug\netcoreapp3.1\AnimalSystem.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\bin\Debug\netcoreapp3.1\AnimalSystem.dll
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\bin\Debug\netcoreapp3.1\AnimalSystem.pdb
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\obj\Debug\netcoreapp3.1\AnimalSystem.dll
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\obj\Debug\netcoreapp3.1\AnimalSystem.pdb
+C:\Users\DELL\source\repos\AnimalSystem\AnimalSystem\obj\Debug\netcoreapp3.1\AnimalSystem.genruntimeconfig.cache
